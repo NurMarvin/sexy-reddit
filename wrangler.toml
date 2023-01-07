@@ -1,0 +1,5 @@
+name="sexy-reddit"
+main="src/index.ts"
+workers_dev = true
+compatibility_date = "2022-11-22"
+account_id = "7f619c79ed9bb799179210ff12999cdd"
