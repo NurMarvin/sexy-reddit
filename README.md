@@ -12,21 +12,22 @@ After: https://rxyddit.com/r/catsareliquid/comments/104f55s/the_aussie_summer_ha
 
 - [x] Embeds for Reddit normal posts
 - [x] Embeds for Reddit image posts
-- [] Embeds for Reddit video posts
+- [ ] Embeds for Reddit video posts
 - [x] Embeds for Reddit GIF posts
-- [] Embeds for Reddit self posts
-- [] Embeds for Reddit link posts
-- [] Embeds for Reddit gallery posts
-- [] Embeds for Reddit crossposts
-- [] Embeds for Reddit polls
-- [] Embeds for Reddit comments
-- [] Embeds for Reddit user profiles
-- [] Embeds for Reddit subreddit profiles
-- [] Embeds for Reddit wiki pages
+- [ ] Embeds for Reddit self posts
+- [ ] Embeds for Reddit link posts
+- [ ] Embeds for Reddit gallery posts
+- [ ] Embeds for Reddit crossposts
+- [ ] Embeds for Reddit polls
+- [ ] Embeds for Reddit comments
+- [ ] Embeds for Reddit user profiles
+- [ ] Embeds for Reddit subreddit profiles
+- [ ] Embeds for Reddit wiki pages
 
 ... and maybe more things I forgot to list here.
 
 ## Credits
 
 Very much inspired by [tiktxk](https://github.com/Britmoji/tiktxk) by the folks at [Britmoji](https://github.com/Britmoji).
+
 Also thanks to [Embedreddit](https://embedreddit.com/) which sadly is closed source and not actively maintained to my knowledge hence I'm building my own solution.
